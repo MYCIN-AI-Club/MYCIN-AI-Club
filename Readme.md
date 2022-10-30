@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're MYCIN</h1>
-<h3 align="center">Technovation Club, Innovation Center KIET</h3>
+<h3 align="center">Technovation Club, Innovation Center, KIET</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mycin-ai-club&label=Profile%20views&color=0e75b6&style=flat" alt="mycin-ai-club" /> </p>-->
 
