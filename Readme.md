@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **ML, Web Development, AR/VR and cybersecurity**
 
-- 👯 I’m looking to collaborate with **Developers who wish to begin with Open Source in any of our Domains**
+- 👯 I’m looking to collaborate with **developers who wish to begin with Open Source journey in any of our domains.**
 
 - 🤝 Visit Us at [mycin.in](mycin.in)
-
-- 📝 I am planning to write articles for guiding ML DL beginners [.](.)
 
 - 📫 How to reach us **mycin@kiet.edu**
 
