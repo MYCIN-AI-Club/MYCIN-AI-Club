@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mycin-ai-club&label=Profile%20views&color=0e75b6&style=flat" alt="mycin-ai-club" /> </p>-->
 
-- 🔭 I’m currently working on **ML, Web Development, AR/VR and cybersecurity**
+- 🔭 I’m currently working on **ArtificialX, CodeBrewers, VRFly and Eagles Cyber Squad**
 
 - 👯 I’m looking to collaborate with **developers who wish to begin with Open Source journey in any of our domains.**
 
