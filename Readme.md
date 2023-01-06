@@ -9,9 +9,9 @@
 
 - 🤝 Visit Us at [mycin.in](mycin.in)
 
-- 📫 How to reach us **mycin@kiet.edu**
+- 📫 Reach us at Innovation Center for talks/collaborations.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mycin-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mycin-in" height="30" width="40" /></a>
 <a href="https://instagram.com/mycin.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mycin.in" height="30" width="40" /></a>
